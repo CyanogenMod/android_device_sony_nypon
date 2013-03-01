@@ -155,16 +155,6 @@ lib/libcflashdriver.so
 lib/libcameralight.so
 lib/libcn.so
 lib/libS1SL.so
-lib/sysmon/sysmon_lcd_brightnesslevel30.so
-lib/sysmon/sysmon_lcd_brightnesslevel50.so
-lib/sysmon/sysmon_db8500_ext.so
-lib/sysmon/sysmon_ab8500_ext_rtc_xtal.so
-lib/sysmon/sysmon_ab8500_bat_temp.so
-lib/sysmon/sysmon_lcd_brightness_reset.so
-lib/sysmon/sysmon_test_sensor.so
-lib/sysmon/sysmon_ab8500_bat_ctrl.so
-lib/sysmon/sysmon_ab8500.so
-lib/sysmon/sysmon_lcd_brightnesslevel70.so
 lib/libste_ens_video_common.so
 lib/libste_dec_amrwb.so
 lib/libMiscTaAccessor.so
@@ -197,7 +187,6 @@ bin/cspsa-server
 bin/pand
 bin/taimport
 bin/at_core
-bin/system_monitor
 bin/lbsstelp
 bin/admsrv
 bin/updatemiscta
